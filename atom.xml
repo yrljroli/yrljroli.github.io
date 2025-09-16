@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yrljroli.github.io/</id>
+    <title>襍録</title>
+    <updated>2025-09-16T10:18:20.195Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yrljroli.github.io/"/>
+    <link rel="self" href="https://yrljroli.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://yrljroli.github.io/images/avatar.png</logo>
+    <icon>https://yrljroli.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 襍録</rights>
+    <entry>
+        <title type="html"><![CDATA[試驗]]></title>
+        <id>https://yrljroli.github.io/post/shi-yan/</id>
+        <link href="https://yrljroli.github.io/post/shi-yan/">
+        </link>
+        <updated>2025-09-16T10:12:25.000Z</updated>
+        <content type="html"><![CDATA[<p>。</p>
+]]></content>
+    </entry>
+</feed>
